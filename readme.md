@@ -27,4 +27,4 @@ Eng. version is getting ready.
 
 ## 宣言本文
 
-- [日本語版(ja-JP)](ja-JP\protecting_declare_ja-JP.md)
+- [日本語版(ja-JP)](ja-JP/protecting_declare_ja-JP.md)
