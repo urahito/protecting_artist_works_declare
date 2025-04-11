@@ -32,6 +32,7 @@
 | |Transcope|GPT系|●| | | | | |
 |Runway|Runway Gen-2| | | |●| | | |
 | |Soundraw| | | | |●| | |
+| |Udio| | | | |●| | |
 
 ## 凡例
 
