@@ -8,6 +8,7 @@
 |Midjourney|Midjourney| | |●| | | | |
 | |Niji journey| | |●| | | | |
 |Anlatan|NovelAI|アニメ風データ流出(2022)| |●| | | | |
+|Suno|Suno| | | | |●| | |
 |Canva|Canva|t2i| |●| |●| | |
 |OpenAI|ChatGPT| |●|●| | | | |
 |OpenAI|DALL-E| | |●| | | | |
@@ -26,12 +27,11 @@
 |Microsoft|VALL-E|名前は似ているが音声系| | | |●| | |
 |Anthropic|Claude|技術記事系コミュニティで散見|●| | | | | |
 | |Notion AI|GPT,Claude系(有料)|●| | | | | |
-| |(Discord)|bot/API経由でChatGPT・SDなど|◆|◆|?|?|?|?|
+| |(Discord)|bot/API経由でChatGPT・SDなど|◆|◆|API次第で可能性あり| | | |
 | |Poly|3Dモデル| | | | | |●|
 | |Transcope|GPT系|●| | | | | |
 |Runway|Runway Gen-2| | | |●| | | |
 | |Soundraw| | | | |●| | |
-| |Udio| | | | |●| | |
 
 ## 凡例
 
