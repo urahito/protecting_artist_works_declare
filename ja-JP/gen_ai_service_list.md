@@ -1,38 +1,43 @@
 # 生成AI（周辺）サービスリスト
 
-|開発企業|サービス名|関連用語・出来事|文章|画像|動画|音楽　音声|プログラム|その他|
-|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-|Stability AI|Stable Diffusion(SD)|t2i/i2i/Lora| |●| | | | |
-|Adobe|Adobe Photoshop(PS)|Adobe Stock,背景拡張など| |●| | | | |
-|Adobe|Adobe Firefly|t2i| |●|●| | | |
-|Midjourney|Midjourney| | |●| | | | |
-| |Niji journey| | |●| | | | |
-|Anlatan|NovelAI|アニメ風データ流出(2022)| |●| | | | |
-|Suno|Suno| | | | |●| | |
-|Canva|Canva|t2i| |●| |●| | |
-|OpenAI|ChatGPT| |●|●| | | | |
-|OpenAI|DALL-E| | |●| | | | |
-|OpenAI|Sora| | | |●| | | |
-|xAI|Grok|X(SNS)を買収(2025)|●|●|▲| | | |
-|DeepSeek|DeepSeek|Baidu(百度)導入| |●| | | | |
-|Sakana ai|からまる|Google出身者| | | | | | |
-|Apple|Apple intelligence|iOS 18.4以降|●|●| | | | |
-|Google|Google Genimi|「-ai」でオフ|●| | | | | |
-|Google|MusicFX（旧MusicLM）| | | | |●| | |
-|Amazon|Amazon CodeWhisperer| | | | | |●| |
-|Meta(旧Facebook)|Make-a-Video| | | |●| | | |
-|Microsoft|Microsoft Copilot|Microsoft365 Classicプランでオフに|●|●| | | | |
-|Microsoft|Bing(追加機能)| |●| | | | | |
-|Microsoft|GitHub Copilot| | | | | |●| |
-|Microsoft|VALL-E|名前は似ているが音声系| | | |●| | |
-|Anthropic|Claude|技術記事系コミュニティで散見|●| | | | | |
-| |Notion AI|GPT,Claude系(有料)|●| | | | | |
-| |(Discord)|bot/API経由でChatGPT・SDなど|◆|◆|API次第で可能性あり| | | |
-| |Poly|3Dモデル| | | | | |●|
-| |Transcope|GPT系|●| | | | | |
-|Runway|Runway Gen-2| | | |●| | | |
-| |Soundraw| | | | |●| | |
-| |Udio| | | | |●| | |
+| 開発企業 | サービス名 | 関連用語・出来事 | AIｴｰｼﾞｪﾝﾄ | 文章 | 画像 | 動画 | 音楽　音声 | プログラム | その他 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stability AI | Stable Diffusion(SD) | t2i/i2i/Lora |  |  | ● |  |  |  |  |
+| Adobe | Adobe Photoshop(PS) | Adobe Stock,背景拡張など |  |  | ● |  |  |  |  |
+| Adobe | Adobe Firefly | t2i |  |  | ● | ● |  |  |  |
+| Midjourney | Midjourney |  |  |  | ● |  |  |  |  |
+|  | Niji journey |  |  |  | ● |  |  |  |  |
+| Anlatan | NovelAI | アニメ風データ流出(2022) |  |  | ● |  |  |  |  |
+| Suno | Suno |  |  |  |  |  | ● |  |  |
+| Canva | Canva | t2i |  |  | ● |  | ● |  |  |
+| OpenAI | ChatGPT |  |  | ● | ● |  |  |  |  |
+| OpenAI | DALL-E |  |  |  | ● |  |  |  |  |
+| OpenAI | Sora |  |  |  |  | ● |  |  |  |
+| OpenAI | Operator |  | ● |  |  |  |  |  |  |
+| xAI | Grok | X(SNS)を買収(2025) |  | ● | ● | ▲ |  |  |  |
+| DeepSeek | DeepSeek | Baidu(百度)導入 |  |  | ● |  |  |  |  |
+| Sakana ai | からまる | Google出身者 |  |  |  |  |  |  |  |
+| LINEヤフー | LINE AI  | ChatGPT利用 |  | ● | ● |  |  |  |  |
+| LINEヤフー | Yahoo!広告 | 画像拡張生成 |  |  | ● |  |  |  |  |
+| LINEヤフー | Yahoo!検索 | (ChatGPT利用?) |  | ● |  |  |  |  |  |
+| Apple | Apple intelligence | iOS 18.4以降 |  | ● | ● |  |  |  |  |
+| Google | Google Genimi | 「-ai」でオフ |  | ● |  |  |  |  |  |
+| Google | MusicFX（旧MusicLM） |  |  |  |  |  | ● |  |  |
+| Amazon | Amazon CodeWhisperer |  |  |  |  |  |  | ● |  |
+| Amazon | Amazon Q |  | ● |  |  |  |  |  |  |
+| Meta(旧Facebook) | Make-a-Video |  |  |  |  | ● |  |  |  |
+| Microsoft | Microsoft Copilot | Microsoft365 Classicプランでオフに |  | ● | ● |  |  |  |  |
+| Microsoft | Bing(追加機能) |  |  | ● |  |  |  |  |  |
+| Microsoft | GitHub Copilot |  |  |  |  |  |  | ● |  |
+| Microsoft | VALL-E | 名前は似ているが音声系 |  |  |  |  | ● |  |  |
+| Anthropic | Claude | 技術記事系コミュニティで散見 |  | ● |  |  |  |  |  |
+|  | Notion AI | GPT,Claude系(有料) |  | ● |  |  |  |  |  |
+|  | (Discord) | bot/API経由でChatGPT・SDなど |  | ◆ | ◆ | API次第で可能性あり |  |  |  |
+|  | Poly | 3Dモデル |  |  |  |  |  |  | ● |
+|  | Transcope | GPT系 |  | ● |  |  |  |  |  |
+| Runway | Runway Gen-2 |  |  |  |  | ● |  |  |  |
+|  | Soundraw |  |  |  |  |  | ● |  |  |
+|  | Udio |  |  |  |  |  | ● |  |  |
 
 ## 凡例
 
