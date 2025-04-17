@@ -14,7 +14,7 @@
 | OpenAI | DALL-E |  |  |  | ● |  |  |  |  |
 | OpenAI | Sora |  |  |  |  | ● |  |  |  |
 | OpenAI | Operator |  | ● |  |  |  |  |  |  |
-| xAI | Grok | X(SNS)を買収(2025) |  | ● | ● | ▲ |  |  |  |
+| xAI(旧X,Twitter) | Grok | X(SNS)を買収(2025) |  | ● | ● | ▲ |  |  |  |
 | DeepSeek | DeepSeek | Baidu(百度)導入 |  |  | ● |  |  |  |  |
 | Sakana ai | からまる | Google出身者 |  |  |  |  |  |  |  |
 | LINEヤフー | LINE AI  | ChatGPT利用 |  | ● | ● |  |  |  |  |
