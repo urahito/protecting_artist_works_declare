@@ -27,14 +27,14 @@ Eng. version is getting ready.
 
 ## 宣言本文
 
-- [日本語版(ja-JP)](/ja-JP/protecting_declare_ja-JP.md)
+- [日本語版(ja-JP)](ja-JP/protecting_declare_ja-JP.md)
 
 ## その他参考資料
 
 ### 理数・技術的考察や解説
 
-- [補足資料：生成ＡＩの直感的理解のための「ファジイ論理」※途中](/ja-JP/math_or_tech/what_is_fuzzy_logic.md)
+- [補足資料：生成ＡＩの直感的理解のための「ファジイ論理」※途中](ja-JP/math_or_tech/what_is_fuzzy_logic.md)
 
 ### その他資料
 
-- [いまある生成AIサービスを「不意に触らない」ための一覧](./ja-JP/gen_ai_service_list.md)
+- [いまある生成AIサービスを「不意に触らない」ための一覧](ja-JP/gen_ai_service_list.md)
