@@ -1,50 +1,64 @@
 # 生成AI（周辺）サービスリスト
 
-| 開発企業            | サービス名                | 関連用語・出来事                    | AIｴｰｼﾞｪﾝﾄ | 画像 | 文章 | 動画 | 音楽　音声 | プログラム | その他 |
-|-----------------|----------------------|-----------------------------|-----------|----|----|----|-------|-------|-----|
-| Stability AI    | Stable Diffusion(SD) | t2i/i2i/Lora                |           | ●  |    |    |       |       |     |
-| Adobe           | Adobe Photoshop(PS)  | Adobe Stock,背景拡張など          |           | ●  |    |    |       |       |     |
-| Adobe           | Adobe Firefly        | t2i                         |           | ●  |    | ●  |       |       |     |
-| Midjourney      | Midjourney           |                             |           | ●  |    |    |       |       |     |
-|                 | Niji journey         |                             |           | ●  |    |    |       |       |     |
-| Anlatan         | NovelAI              | アニメ風データ流出(2022)             |           | ●  |    |    |       |       |     |
-| Suno            | Suno                 |                             |           |    |    |    | ●     |       |     |
-| Canva           | Canva                | t2i                         |           | ●  |    |    | ●     |       |     |
-| OpenAI          | ChatGPT              |                             |           | ●  | ●  |    |       |       |     |
-| OpenAI          | DALL-E               |                             |           | ●  |    |    |       |       |     |
-| OpenAI          | Sora                 |                             |           |    |    | ●  |       |       |     |
-| OpenAI          | Operator             |                             | ●         |    |    |    |       |       |     |
-| xAI(旧X,Twitter) | Grok                 | 現xAI(旧X,Twitter),動画生成は示唆のみ  |           | ●  | ●  | ▲  |       |       |     |
-| DeepSeek        | DeepSeek             | Baidu(百度)導入                 |           | ●  |    |    |       |       |     |
-| Sakana ai       | からまる                 | Google出身者                   |           | ●  |    |    |       |       |     |
-| LINEヤフー         | LINE AI              | ChatGPT利用                   |           | ●  | ●  |    |       |       |     |
-| LINEヤフー         | Yahoo!広告             | 画像拡張生成                      |           | ●  |    |    |       |       |     |
-| LINEヤフー         | Yahoo!検索             | (ChatGPT利用?)                |           |    | ●  |    |       |       |     |
-| Apple           | Apple intelligence   | iOS 18.4以降                  |           | ●  | ●  |    |       |       |     |
-| Google          | Google Genimi        | 「-ai」でオフ                    |           |    | ●  |    |       |       |     |
-| Google          | MusicFX（旧MusicLM）    |                             |           |    |    |    | ●     |       |     |
-| Amazon          | Amazon CodeWhisperer |                             |           |    |    |    |       | ●     |     |
-| Amazon          | Amazon Q             |                             | ●         |    |    |    |       |       |     |
-| MarkdownAI      | MarkdownAI           | 元モデル不明                      |           | ●  | ●  |    |       |       |     |
-| Meta(旧Facebook) | Make-a-Video         |                             |           |    |    | ●  |       |       |     |
-| Microsoft       | Microsoft Copilot    | Microsoft365 Classicプランでオフに |           | ●  | ●  |    |       |       |     |
-| Microsoft       | Bing(追加機能)           |                             |           |    | ●  |    |       |       |     |
-| Microsoft       | GitHub Copilot       |                             |           |    |    |    |       | ●     |     |
-| Microsoft       | VALL-E               | 名前は似ているが音声系                 |           |    |    |    | ●     |       |     |
-| Anthropic       | Claude               | 技術記事系コミュニティで散見              |           |    | ●  |    |       |       |     |
-|                 | Notion AI            | GPT,Claude系(有料)             |           |    | ●  |    |       |       |     |
-|                 | (Discord)            | bot/API経由でChatGPT・SDなど      |           | ◆  | ◆  |    |       |       | ◆   |
-|                 | Poly                 | 3Dモデル                       |           |    |    |    |       |       | ●   |
-|                 | Transcope            | GPT系                        |           |    | ●  |    |       |       |     |
-| Runway          | Runway Gen-2         |                             |           |    |    | ●  |       |       |     |
-|                 | Soundraw             |                             |           |    |    |    | ●     |       |     |
-|                 | Udio                 |                             |           |    |    |    | ●     |       |     |
-|                 | Character.AI         |                             | ●         |    | ●  |    |       |       |     |
-|                 | AnimateDiff          | StableDiffusion拡張           |           |    |    | ●  |       |       |     |
-|                 | FastComposer         | StableDiffusion拡張           |           |    |    | ●  |       |       |     |
-|                 | IP-Adapter           | StableDiffusion拡張           |           | ●  |    |    |       |       |     |
-|                 | PhotoMaker           | StableDiffusionカスタマイズ       |           | ●  |    |    |       |       |     |
-
+| 名前 | A:画像 | B:AIｴｰｼﾞｪﾝﾄ | C:文章 | D:動画 | E:音楽音声 | F:コードﾌﾟﾛｸﾞﾗﾑ | G:その他 | 備考 |
+|---|---|---|---|---|---|---|---|---|
+| Stable Diffusion(SD) | ○ |  |  |  |  |  |  | t2i/i2i/Lora (Stability AI) |
+| ComfyUI | ○ |  |  |  |  |  |  | t2i/i2i  |
+| Paints-Undo | ○ |  |  | ○ |  |  |  | タイムラプス系  |
+| Adobe Photoshop(PS) | ○ |  |  |  |  |  |  | Adobe Stock,背景拡張など (Adobe) |
+| Adobe Firefly | ○ |  |  | ○ |  |  |  | t2i (Adobe) |
+| Midjourney | ○ |  |  |  |  |  |  |  (Midjourney) |
+| Niji journey | ○ |  |  |  |  |  |  |  |
+| NovelAI | ○ |  |  |  |  |  |  | アニメ風データ流出(2022) (Anlatan) |
+| Suno |  |  |  |  | ○ |  |  |  (Suno) |
+| Canva | ○ |  |  |  | ○ |  |  | t2i (Canva) |
+| ChatGPT | ○ |  | ○ |  |  |  |  |  (OpenAI) |
+| DALL-E | ○ |  |  |  |  |  |  |  (OpenAI) |
+| Sora |  |  |  | ○ |  |  |  |  (OpenAI) |
+| Operator |  | ○ |  |  |  |  |  |  (OpenAI) |
+| Grok | ○ |  | ○ | ○ |  |  |  | 現xAI(旧X,Twitter),動画生成は示唆のみ (xAI(旧X,Twitter)) |
+| DeepSeek | ○ |  |  |  |  |  |  | Baidu(百度)導入 (DeepSeek) |
+| Veo 3 |  |  |  | ○ |  |  |  | Google  |
+| からまる | ○ |  |  |  |  |  |  | Google出身者 (Sakana ai) |
+| LINE AI | ○ |  | ○ |  |  |  |  | ChatGPT利用 (LINEヤフー) |
+| Yahoo!広告 | ○ |  |  |  |  |  |  | 画像拡張生成 (LINEヤフー) |
+| Yahoo!検索 |  |  | ○ |  |  |  |  | (ChatGPT利用?) (LINEヤフー) |
+| Apple intelligence | ○ |  | ○ |  |  |  |  | iOS 18.4以降 (Apple) |
+| Google Genimi |  |  | ○ |  |  |  |  | 「-ai」でオフ (Google) |
+| MusicFX（旧MusicLM） |  |  |  |  | ○ |  |  |  (Google) |
+| Amazon CodeWhisperer |  |  |  |  |  | ○ |  |  (Amazon) |
+| Amazon Q |  | ○ |  |  |  |  |  |  (Amazon) |
+| MarkdownAI | ○ |  | ○ |  |  |  |  | 元モデル不明 (MarkdownAI) |
+| Make-a-Video |  |  |  | ○ |  |  |  |  (Meta(旧Facebook)) |
+| Microsoft Copilot | ○ |  | ○ |  |  |  |  | Microsoft365 Classicプランでオフに (Microsoft) |
+| Bing(追加機能) |  |  | ○ |  |  |  |  |  (Microsoft) |
+| GitHub Copilot |  |  |  |  |  | ○ |  |  (Microsoft) |
+| VALL-E |  |  |  |  | ○ |  |  | 名前は似ているが音声系 (Microsoft) |
+| Claude |  |  | ○ |  |  |  |  | 技術記事系コミュニティで散見 (Anthropic) |
+| Notion AI |  |  | ○ |  |  |  |  | GPT,Claude系(有料)  |
+| (Discord) | ○ |  | ○ |  |  |  | ○ | bot/API経由でChatGPT・SDなど  |
+| Poly |  |  |  |  |  |  | ○ | 3Dモデル  |
+| Transcope |  |  | ○ |  |  |  |  | GPT系  |
+| Runway Gen-2 |  |  |  | ○ |  |  |  |  (Runway) |
+| Soundraw |  |  |  |  | ○ |  |  |  |
+| Udio |  |  |  |  | ○ |  |  |  |
+| Character.AI |  | ○ | ○ |  |  |  |  |  |
+| AnimateDiff |  |  |  | ○ |  |  |  | StableDiffusion拡張  |
+| FastComposer |  |  |  | ○ |  |  |  | StableDiffusion拡張  |
+| IP-Adapter | ○ |  |  |  |  |  |  | StableDiffusion拡張  |
+| PhotoMaker | ○ |  |  |  |  |  |  | StableDiffusionカスタマイズ  |
+| Framepack |  |  |  | ○ |  |  |  | 個人開発  |
+| kisekaeichi | ○ |  |  |  |  |  |  | 個人開発  |
+| FramePack_rotate_indoor |  |  |  | ○ |  |  |  | 個人開発  |
+| AICameraRot |  |  |  | ○ |  |  |  | 個人開発  |
+| Omni-Reference | ○ |  |  |  |  |  |  | Midjourney機能  |
+| Image Generator | ○ |  |  |  |  |  |  | ChatGPT機能  |
+| Framepack_imgGEN | ○ |  |  |  |  |  |  | 個人開発  |
+| FramePack-eichi | ○ |  |  |  |  |  |  | 個人開発  |
+| ComfyUI-FramePackWrapper_PlusOne | ○ |  |  |  |  |  |  | 個人開発  |
+| HiDream-l1 | ○ |  |  |  |  |  |  |  |
+| SD+PS | ○ |  |  |  |  |  |  | [補足]Stable Diffusion(SD)+Photoshop AI加筆  |
+| Hunyuan Video |  |  |  | ○ |  |  |  | NSFW系動画生成 |
 
 ## 凡例
 
