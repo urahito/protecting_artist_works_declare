@@ -16,7 +16,8 @@
 | DALL-E | ○ |  |  |  |  |  |  |  (OpenAI) |
 | Sora |  |  |  | ○ |  |  |  |  (OpenAI) |
 | Operator |  | ○ |  |  |  |  |  |  (OpenAI) |
-| Grok | ○ |  | ○ | ○ |  |  |  | 現xAI(旧X,Twitter),動画生成は示唆のみ (xAI(旧X,Twitter)) |
+|Grok|○| |○|○| | | |現xAI(旧X,Twitter) 動画生成は現状示唆のみ (xAI(旧X,Twitter))|
+|Ani,Rudy,BudRudy,Chad(Grok)|○|○|○|○|○| | |AIコンパニオン 動画生成は現状示唆のみ (xAI(旧X,Twitter))|
 | DeepSeek | ○ |  |  |  |  |  |  | Baidu(百度)導入 (DeepSeek) |
 | Veo 3 |  |  |  | ○ |  |  |  | Google  |
 | からまる | ○ |  |  |  |  |  |  | Google出身者 (Sakana ai) |
@@ -24,7 +25,7 @@
 | Yahoo!広告 | ○ |  |  |  |  |  |  | 画像拡張生成 (LINEヤフー) |
 | Yahoo!検索 |  |  | ○ |  |  |  |  | (ChatGPT利用?) (LINEヤフー) |
 | Apple intelligence | ○ |  | ○ |  |  |  |  | iOS 18.4以降 (Apple) |
-| Google Genimi |  |  | ○ |  |  |  |  | 「-ai」でオフ (Google) |
+| Google Genimi | ○ |  | ○ |  |  |  |  | 「-ai」でオフ (Google) |
 | MusicFX（旧MusicLM） |  |  |  |  | ○ |  |  |  (Google) |
 | Amazon CodeWhisperer |  |  |  |  |  | ○ |  |  (Amazon) |
 | Amazon Q |  | ○ |  |  |  |  |  |  (Amazon) |
@@ -83,7 +84,7 @@
 
 (Discordはサードパーティーアプリやbot等を、導線を設けているとされていますが、本体に乗っているかは不明です）  
 
-※本画像は、**生成AIを不意に触ることのないよう**名称と種類の周知の目的のため作成しています。  
+※本画像(または本ページ)は、**生成AIを不意に触ることのないよう**名称と種類の周知の目的のため作成しています。  
 ※抜粋ですので、参考程度にしていただき、肯定・否定のための意見への利用を禁じます。  
 ※今後も動向を踏まえて更新していきます（制作の都合で入れ替えになる場合もあります。過去画像も参照ください）
 
