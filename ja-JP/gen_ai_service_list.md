@@ -1,8 +1,7 @@
 # 生成AI（周辺）サービスリスト
 
 |AI系統／関連企業|名前|A:画像|B:AIｺﾝﾊﾟﾆｵﾝ|C:AIｴｰｼﾞｪﾝﾄ|D:文章/AI要約|E:動画|F:音楽/音声|G:コード/ﾌﾟﾛｸﾞﾗﾑ|H:その他|備考|
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
-|?|darlin|○|○| |○| | | | |VRM対応のため、Vroid等のDL不可設定推奨|
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
 |Adobe Stock|Adobe Firefly|○| | | |○| | | |注意用語: i2i(image to image) (Adobe)|
 |Adobe Stock|Adobe Photoshop(PS)|○| | | | | | | |Adobe Stock,背景拡張など (Adobe)|
 |Amazon|Amazon CodeWhisperer| | | | | | |○| | (Amazon)|
@@ -27,6 +26,7 @@
 |Google|Google Photos|○| | | |○| | | |静止画→動画ツール|
 |Google|Google.com（検索）| | | |○| | | | |AIモード|
 |Google|MusicFX（旧MusicLM）| | | | | |○| | | (Google)|
+|Google|Nano-banana|○| | | | | | | | |
 |Google|Veo 3| | | | |○| | | |Google|
 |LINEヤフー|LINE AI|○| | |○| | | | |ChatGPT利用 (LINEヤフー)|
 |LINEヤフー|LINE AI トークサジェスト| | | | | | | |○|ChatGPT利用? (LINEヤフー)|
