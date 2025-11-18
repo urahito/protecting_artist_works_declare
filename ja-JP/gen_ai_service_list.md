@@ -2,71 +2,7 @@
 
 |AI系統／関連企業|名前|A:画像|B:AIｺﾝﾊﾟﾆｵﾝ|C:AIｴｰｼﾞｪﾝﾄ|D:文章/AI要約|E:動画|F:音楽/音声|G:コード/ﾌﾟﾛｸﾞﾗﾑ|H:その他|備考|
 |:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|Adobe Stock|Adobe Firefly|○| | | |○| | | |注意用語: i2i(image to image) (Adobe)|
-|Adobe Stock|Adobe Photoshop(PS)|○| | | | | | | |Adobe Stock,背景拡張など (Adobe)|
-|Amazon|Amazon CodeWhisperer| | | | | | |○| | (Amazon)|
-|Amazon|Amazon Q Developer| | |○| | | |○| | (Amazon)|
-|Apple|Apple intelligence|○| | |○| | | | |iOS 18.4以降 (Apple)|
-|Canva|Canva|○| | | | |○| | |t2i (Canva)|
-|ChatGPT/OpenAI|ChatGPT|○| | |○| | | | | (OpenAI)|
-|ChatGPT/OpenAI|DALL-E|○| | | | | | | | (OpenAI)|
-|ChatGPT/OpenAI|FFmpeg| | | |○|○| | | |OpenAI Whisperを利用|
-|ChatGPT/OpenAI|Operator| | |○| | | | | | (OpenAI)|
-|ChatGPT/OpenAI|Poly| | | | | | | |○|3Dモデル|
-|ChatGPT/OpenAI|Sora/Sora2| | | | |○| | | |注意用語: i2v(image to video)|
-|ChatGPT/OpenAI|Whisper| | | |○| |○| | | (OpenAI)文字起こし機能|
-|ChatGPT/OpenAI|writeout.ai| | | |○|○| | | |OpenAI Whisperを利用|
-|Claude|Claude| | | |○| | | | |技術記事系コミュニティで散見 (Anthropic)|
-|Claude|Notion AI| | | |○| | | | |GPT,Claude系(有料)|
-|DeepSeek|DeepSeek|○| | | | | | | |Baidu(百度)導入 (DeepSeek)|
-|Discord(サードパーティー)|(Discord)|○| | |○| | | |○|bot/API経由でChatGPT・SDなど|
-|Google|Android版Chrome| | | | | | | | |AIモード|
-|Google|Google AI Lite|○| | |○| | | | |GeminiのLite版|
-|Google|Google Genimi|○| | |○| | | | |「-ai」でオフ (Google)/アプリあり|
-|Google|Google Photos|○| | | |○| | | |静止画→動画ツール|
-|Google|Google.com（検索）| | | |○| | | | |AIモード|
-|Google|MusicFX（旧MusicLM）| | | | | |○| | | (Google)|
-|Google|Nano-banana|○| | | | | | | | |
-|Google|Veo 3| | | | |○| | | |Google|
-|LINEヤフー|LINE AI|○| | |○| | | | |ChatGPT利用 (LINEヤフー)|
-|LINEヤフー|LINE AI トークサジェスト| | | | | | | |○|ChatGPT利用? (LINEヤフー)|
-|LINEヤフー|Yahoo!検索| | | |○| | | | |(ChatGPT利用?) (LINEヤフー)|
-|LINEヤフー|Yahoo!広告|○| | | | | | | |画像拡張生成 (LINEヤフー)|
-|Microsoft|Bing(追加機能)| | | |○| | | | | (Microsoft)|
-|Microsoft|GitHub Copilot| | | | | | |○| | (Microsoft)|
-|Microsoft|Microsoft Copilot|○| | |○| | | | |AIオフ可能/GPT-5が統合|
-|Microsoft|VALL-E| | | | | |○| | |名前は似ているが音声系 (Microsoft)|
-|Midjourney|Midjourney|○| | | | | | | | (Midjourney)|
-|Midjourney|Niji journey|○| | | | | | | | |
-|Midjourney|Omni-Reference|○| | | | | | | |Midjourney機能|
-|NovelAI|NovelAI|○| | | | | | | |アニメ風データ流出(2022) (Anlatan)|
-|Perplexity|Perplexity AI| | | |○| | | | |要約系AI：日本の新聞社と係争中|
-|Perplexity|Perplexity Comet| | |○|○| | | | |AIｴｰｼﾞｪﾝﾄﾌﾞﾗｳｻﾞ|
-|Sakana ai(Google出身者)|からまる|○| | | | | | | |Google出身者 (Sakana ai)|
-|Stability AI|AnimateDiff| | | | |○| | | |StableDiffusion拡張|
-|Stability AI|ComfyUI|○| | | | | | | |t2i/i2i|
-|Stability AI|ComfyUI FramePackWrapper PlusOne|○| | | | | | | |個人開発|
-|Stability AI|ComfyUI+CSP|○| | | | | | | |[補足]ComfyUI(SD系)+クリスタ AI加筆|
-|Stability AI|ComfyUI+PS|○| | | | | | | |[補足]ComfyUI(SD系)+Photoshop AI加筆|
-|Stability AI|DreamStudio|○| | | | | | | | |
-|Stability AI|FastComposer| | | | |○| | | |StableDiffusion拡張|
-|Stability AI|Image Generator|○| | | | | | | |ChatGPT機能|
-|Stability AI|IP-Adapter|○| | | | | | | |StableDiffusion拡張|
-|Stability AI|PhotoMaker|○| | | | | | | |StableDiffusionカスタマイズ|
-|Stability AI|SD+CSP|○| | | | | | | |[補足]Stable Diffusion(SD)+クリスタ AI加筆|
-|Stability AI|SD+PS|○| | | | | | | |[補足]Stable Diffusion(SD)+Photoshop AI加筆|
-|Stability AI|Stable Audio| | | | | |○| | | |
-|Stability AI|Stable Diffusion(SD)|○| | | | | | | |t2i/i2i/Lora (Stability AI)|
-|Suno|Suno| | | | | |○| | | (Suno)|
-|X/xAI|Ani,Rudy,BudRudy,Chad(Grok)|○|○| |○|○|○| | |3Dアバター等の流出の疑いあり|
-|X/xAI|Grok|○| | |○|○|○| | |現xAI(旧X,Twitter)|
-|X/xAI|Grok|○| | |○|○| | | |現xAI(旧X,Twitter)動画生成は現状示唆のみ (xAI(旧X,Twitter))|
-|さくらインターネット|miibo 国産基盤パッケージ| | |○|○| | | | |さくらの生成AIプラットフォームと連携/セキュリティは意識している？|
 |タイムラプス系|Paints-Undo|○| | | |○| | | |タイムラプス系|
-|ブラウザ系|Firefox(AIスマートタブ機能)| | | | | | | |○| |
-|ブラウザ系|Opera|?| | |○| | | | |ChatGPT連携(2023～)|
-|ブラウザ系|Opera Neon| | |○|○| | | | |AIｴｰｼﾞｪﾝﾄﾌﾞﾗｳｻﾞ|
-|楽天|Rakuten AI/Rakuten Link| | |○| | | | | | |
 | |Ada| | | |○| | | |○|カスタマーサポート／チャットボット系|
 | |AICameraRot| | | | |○| | | |個人開発|
 | |AIVA| | | | | |○| | |音声・音楽生成系|

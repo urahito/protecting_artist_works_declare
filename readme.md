@@ -28,6 +28,7 @@ Eng. version is getting ready.
 ## 宣言本文
 
 - [日本語版(ja-JP)](ja-JP/protecting_declare_ja-JP.md)
+  - [著名サービスの生成AIサービス 日本語版(ja-JP)](ja-JP/gen_ai_from_wellknown_service.md)  
 
 ## その他参考資料
 
