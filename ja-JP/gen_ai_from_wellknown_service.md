@@ -1,5 +1,7 @@
 # 著名サービスの展開する生成AI（周辺）サービスリスト
 
+[→下記以外の生成AIサービスリスト](./gen_ai_service_list.md)
+
 ![著名サービスの展開する生成AI（周辺）サービスリスト](./image/gen_ai_from_wellknown_service_ja-JP.png)
 
 ---
