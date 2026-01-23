@@ -172,21 +172,7 @@ x^2 \\ x \\ 1
 
 ```math
 \begin{align*}
-f' &= 
-\begin{pmatrix}
-0 &2 &1 \\
-\quad &0 &0\\
-\quad &\quad &0
-\end{pmatrix}
-\begin{pmatrix}
-0 &a &b \\
-\quad &0 &0\\
-\quad &\quad &0
-\end{pmatrix}
-\begin{bmatrix}
-x^2 \\ x \\ 1
-\end{bmatrix}
-\\
+f' 
 &= 
 \begin{pmatrix}
 0 &2a &b \\
@@ -239,27 +225,6 @@ x^2 \\ x \\ 1
 ```math
 \begin{align*}
 F(x)
-&=
-\begin{pmatrix}
-\frac{1}{3} &\frac{1}{2} &1 &0 \\
-\quad &0 &0 &0 \\
-\vdots &\quad &0 &0 \\
-0 &\cdots &\quad &0
-\end{pmatrix}
-\begin{pmatrix}
-a &b &c &0 \\
-\quad &0 &0 &0 \\
-\vdots &\quad &0 &0 \\
-0 &\cdots &\quad &0
-\end{pmatrix}
-\begin{bmatrix}
-x^3 \\ x^2 \\ x \\ 1
-\end{bmatrix}
-+
-\begin{bmatrix}
-0 \\ 0 \\ 0 \\ C
-\end{bmatrix}
-\\
 &=
 \begin{pmatrix}
 \frac{1}{3}a &\frac{1}{2}b &c &0 \\
