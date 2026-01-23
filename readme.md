@@ -35,7 +35,7 @@ Eng. version is getting ready.
 ### 理数・技術的考察や解説
 
 - [補足資料：生成ＡＩの直感的理解のための「ファジイ論理」※途中](ja-JP/math_or_tech/what_is_fuzzy_logic.md)
-- [補足資料：行列の微分・積分の直感的な整理](./ja-JP/math_or_tech/matrix_calculus.md)（正確なものではありません）
+- [補足資料：行列の微分・積分の直感的な整理](./ja-JP/math_or_tech/matrix_calculus.html)（正確なものではありません）
 
 ### その他資料
 
