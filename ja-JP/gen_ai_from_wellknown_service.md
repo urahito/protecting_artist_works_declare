@@ -31,6 +31,9 @@
 |DeepSeek|DeepSeek|○| | | | | | | |Baidu(百度)導入 (DeepSeek)|
 |Discord(サードパーティー)|(Discord)|○| | |○| | | |○|bot/API経由でChatGPT・SDなど|
 |Google|Android版Chrome| | | | | | | | |AIモード|
+|Google|Google Chrome|○| | |○| | | | |生成AI画像編集の導入|
+|Google|Nano-banana|○| | || | | | ||
+|Google|NotebookLM|| | |○| | | | ||
 |Google|Google AI Lite|○| | |○| | | | |GeminiのLite版|
 |Google|Google Genimi|○| | |○| | | | |「-ai」でオフ (Google)/アプリあり|
 |Google|Google Photos|○| | | |○| | | |静止画→動画ツール|
