@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="ページ1" id="t8PGmoKv6b-Ii_ZzOvyd">
-        <mxGraphModel dx="870" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1338" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -137,10 +137,10 @@
                     <mxGeometry x="10" y="130" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-28" value="copainter&lt;div&gt;(線画・着彩系)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-6" vertex="1">
-                    <mxGeometry x="20" y="620" width="100" height="40" as="geometry"/>
+                    <mxGeometry x="20" y="590" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-29" value="PaintsUndo&lt;div&gt;(偽ﾀｲﾑﾗﾌﾟｽ生成)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-6" vertex="1">
-                    <mxGeometry x="130" y="620" width="100" height="40" as="geometry"/>
+                    <mxGeometry x="130" y="540" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-95" value="xAI(X[旧Twitter]派生)" style="swimlane;whiteSpace=wrap;html=1;" parent="Mp5r-Qoa0zNOFL0Kx5lk-6" vertex="1">
                     <mxGeometry x="10" y="341" width="230" height="180" as="geometry"/>
@@ -169,9 +169,6 @@
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-93" value="Suno" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="FOmis4Pu9uNNAX9EDmD_-14" vertex="1">
                     <mxGeometry x="10" y="30" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-12" value="Canva" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="FOmis4Pu9uNNAX9EDmD_-14" vertex="1">
-                    <mxGeometry x="10" y="80" width="100" height="40" as="geometry"/>
-                </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-25" value="Deepseek" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="FOmis4Pu9uNNAX9EDmD_-14" vertex="1">
                     <mxGeometry x="120" y="80" width="100" height="40" as="geometry"/>
                 </mxCell>
@@ -179,7 +176,7 @@
                     <mxGeometry x="120" y="30" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-22" value="Anthropic(Claude等)" style="swimlane;whiteSpace=wrap;html=1;" parent="Mp5r-Qoa0zNOFL0Kx5lk-6" vertex="1">
-                    <mxGeometry x="10" y="530" width="230" height="80" as="geometry"/>
+                    <mxGeometry x="510" y="391" width="230" height="269" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-23" value="Claude" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
                     <mxGeometry x="10" y="30" width="100" height="40" as="geometry"/>
@@ -187,8 +184,20 @@
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-24" value="Notion AI&lt;div&gt;(内部で利用?)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
                     <mxGeometry x="120" y="30" width="100" height="40" as="geometry"/>
                 </mxCell>
+                <mxCell id="32" value="Bluesky&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Claude開発に使用)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCC99;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
+                    <mxGeometry x="10" y="79" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" source="36" target="Mp5r-Qoa0zNOFL0Kx5lk-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Affinity" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22">
+                    <mxGeometry x="120" y="139" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-12" value="Canva" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
+                    <mxGeometry x="120" y="79" width="100" height="40" as="geometry"/>
+                </mxCell>
                 <mxCell id="34" value="OpenClaw" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="Mp5r-Qoa0zNOFL0Kx5lk-6" vertex="1">
-                    <mxGeometry x="520" y="400" width="100" height="40" as="geometry"/>
+                    <mxGeometry x="20" y="540" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-94" value="著作権侵害・ライセンス違反の疑いがある系統②&lt;div&gt;(自前ではなく、内部で利用している場合も記載しているため注意)&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
                     <mxGeometry x="360" y="690" width="760" height="520" as="geometry"/>
@@ -295,9 +304,6 @@
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-2" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;miibo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(さくらｲﾝﾀｰﾈｯﾄ)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="FOmis4Pu9uNNAX9EDmD_-4" vertex="1">
                     <mxGeometry x="65" y="30" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="Bluesky&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Claude開発に使用)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCC99;" parent="Mp5r-Qoa0zNOFL0Kx5lk-94" vertex="1">
-                    <mxGeometry x="380" y="457" width="100" height="40" as="geometry"/>
-                </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-82" value="主要用語" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="10" width="230" height="233" as="geometry"/>
                 </mxCell>
@@ -376,8 +382,8 @@
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-39" value="Grok" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="FOmis4Pu9uNNAX9EDmD_-31" vertex="1">
                     <mxGeometry x="40" y="233" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ewyv7OtZP-K10o0Hyrdj-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;生成AI・生成AI関連サービス／機械学習等の学習ソースに懸念のあるサービス（抜粋）&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;＜免責＞&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;・2025年春頃からの調査を元にしていますが、情報のアップデートがされていない（サービス終了等）場合や、抜け漏れがある可能性を含みます。&lt;br&gt;・この一覧は抜粋であり、また数が多いため再調査は原則しておりません。そのため分類も調査時・確認当時の状態のままである可能性があります。&lt;br&gt;・また、あくまで「サービス内に生成AIが使われている可能性が指摘されているサービス」をカテゴリーに含めている場合がありますが、これは確認当時での情報に基づくものです。予めご了承ください。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・以上のことから、&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 51, 51));&quot;&gt;この情報を参考にした事による責任は負いかねます。&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 51, 51));&quot;&gt;必ず信頼出来る情報源、検索エンジンでも『AI要約以外』（「-AI」を検索ワードに含めることで対応可能）からの複数の情報源から確認してください。&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;・また、以下に掲載されるようなサービスで検索した情報は「人間よりも不正確なものを回答する」または「誤りや無関係な情報が混入しやすい」という認識があってまとめておりますので、そのようなツールが生成した情報に基づくご意見は受け付けておりません。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="-260" width="1080" height="250" as="geometry"/>
+                <mxCell id="Ewyv7OtZP-K10o0Hyrdj-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;生成AI・生成AI関連サービス／機械学習等の学習ソースに懸念のあるサービス（抜粋）&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;＜免責＞&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;・2025年春頃からの調査を元にしていますが、情報のアップデートがされていない（サービス終了等）場合や、抜け漏れがある可能性を含みます。&lt;br&gt;・この一覧は抜粋であり、また数が多いため再調査は原則しておりません。そのため分類も調査時・確認当時の状態のままである可能性があります。&lt;br&gt;・また、あくまで「サービス内に生成AIが使われている可能性が指摘されているサービス」をカテゴリーに含めている場合がありますが、これは確認当時での情報に基づくものです。予めご了承ください。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・以上のことから、&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 51, 51));&quot;&gt;この情報を参考にした事による責任は負いかねます。&lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 51, 51));&quot;&gt;必ず信頼出来る情報源、検索エンジンでも『AI要約以外』（「-AI」を検索ワードに含めることで対応可能）からの複数の情報源から確認してください。&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px;&quot;&gt;・また、以下に掲載されるようなサービスで検索した情報は「人間よりも不正確なものを回答する」または「誤りや無関係な情報が混入しやすい」という認識があってまとめておりますので、そのようなツールが生成した情報に基づくご意見は受け付けておりません。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;【画像の拡散の条件付き許可について】&lt;br&gt;「（AIによるものを含め）改変をしない」「&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;（AIによるものを含め）&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;加工をしない」こと、また保存年月（2026年4月等）の表示を前提に、単純な複製による再アップロード・転載を許可します。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;ただし、免責事項に関する内容は作成者および再投稿した方へも継承されるものとします。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-300" width="1080" height="300" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ewyv7OtZP-K10o0Hyrdj-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontColor=none;noLabel=1;fillColor=#f5f5f5;strokeColor=#E6E6E6;" parent="1" source="Ewyv7OtZP-K10o0Hyrdj-3" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
