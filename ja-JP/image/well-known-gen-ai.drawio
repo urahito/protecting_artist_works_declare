@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="ページ1" id="t8PGmoKv6b-Ii_ZzOvyd">
-        <mxGraphModel dx="1338" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="781" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -40,7 +40,7 @@
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-16" value="Poly" style="rounded=1;whiteSpace=wrap;html=1;" parent="Mp5r-Qoa0zNOFL0Kx5lk-13" vertex="1">
                     <mxGeometry x="10" y="80" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-17" value="&lt;b&gt;Sora&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sora2&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="Mp5r-Qoa0zNOFL0Kx5lk-13" vertex="1">
+                <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-17" value="&lt;b&gt;Sora&lt;/b&gt;&lt;div&gt;&lt;b&gt;Sora2&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#b46504;" parent="Mp5r-Qoa0zNOFL0Kx5lk-13" vertex="1">
                     <mxGeometry x="120" y="80" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-18" value="Whisper" style="rounded=1;whiteSpace=wrap;html=1;" parent="Mp5r-Qoa0zNOFL0Kx5lk-13" vertex="1">
@@ -187,10 +187,10 @@
                 <mxCell id="32" value="Bluesky&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Claude開発に使用)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCC99;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
                     <mxGeometry x="10" y="79" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" source="36" target="Mp5r-Qoa0zNOFL0Kx5lk-12">
+                <mxCell id="38" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" source="36" target="Mp5r-Qoa0zNOFL0Kx5lk-12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="Affinity" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22">
+                <mxCell id="36" value="Affinity" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
                     <mxGeometry x="120" y="139" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-12" value="Canva" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-22" vertex="1">
@@ -291,6 +291,9 @@
                 </mxCell>
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-90" value="※同社サイト上では大学からデータ提供を受けたとしているが、本調査では検証しない" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Mp5r-Qoa0zNOFL0Kx5lk-64" vertex="1">
                     <mxGeometry x="10" y="130" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Sakana Fugu&lt;div&gt;/ Fugu Ultra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-64">
+                    <mxGeometry x="10" y="80" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-18" value="Cursor" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-94" vertex="1">
                     <mxGeometry x="260" y="457" width="100" height="40" as="geometry"/>
