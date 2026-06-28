@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="ページ1" id="t8PGmoKv6b-Ii_ZzOvyd">
-        <mxGraphModel dx="781" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="664" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -292,7 +292,7 @@
                 <mxCell id="Mp5r-Qoa0zNOFL0Kx5lk-90" value="※同社サイト上では大学からデータ提供を受けたとしているが、本調査では検証しない" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Mp5r-Qoa0zNOFL0Kx5lk-64" vertex="1">
                     <mxGeometry x="10" y="130" width="210" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="Sakana Fugu&lt;div&gt;/ Fugu Ultra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="Mp5r-Qoa0zNOFL0Kx5lk-64">
+                <mxCell id="39" value="Sakana Fugu&lt;div&gt;/ Fugu Ultra&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-64" vertex="1">
                     <mxGeometry x="10" y="80" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="FOmis4Pu9uNNAX9EDmD_-18" value="Cursor" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="Mp5r-Qoa0zNOFL0Kx5lk-94" vertex="1">
@@ -400,7 +400,7 @@
                         <mxPoint x="1150" y="1140" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="Ewyv7OtZP-K10o0Hyrdj-3" value="2026/4時点・拡散のための再投稿OK" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+                <mxCell id="Ewyv7OtZP-K10o0Hyrdj-3" value="2026/6末時点・拡散のための再投稿OK" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="50" y="1226" width="250" height="30" as="geometry"/>
                 </mxCell>
             </root>
